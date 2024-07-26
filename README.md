@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there :alien:
 
-<!--
-**JoaoVitorRodriguesSouza/JoaoVitorRodriguesSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o João Vitor, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+<br>
+<br> 
+ <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js">
+ <br>
+ ### Conecte-se comigo:
 
-Here are some ideas to get you started:
+ <p>
+   <a href="https://www.instagram.com/jozrlxz/">
+   <img align="left" alt="icone instagram" width="30px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHo1V9_FOjV4Tr7VwJ_NQoCMZ4-Y7Swqzsog&s">
+   </a>
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-1a9157313/">
+   <img align="left" alt="icone linkedin" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NudDfW0-eU28B6ZxWDFXChGmMbyPGZg9sA&s">
+   </a>  
+ </p>
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorRodriguesSouza)](https://github.com/anuraghazra/github-readme-stats)
+ <br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorRodriguesSouza)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+ 
