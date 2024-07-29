@@ -13,7 +13,7 @@ Eu sou o João Vitor, sou um Programador Front End, atualmente estou aprendendo 
    <a href="https://www.instagram.com/jozrlxz/">
    <img align="left" alt="icone instagram" width="30px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHo1V9_FOjV4Tr7VwJ_NQoCMZ4-Y7Swqzsog&s">
    </a>
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-1a9157313/">
+   <a href="www.linkedin.com/in/joão-vitor-rodrigues-souza">
    <img align="left" alt="icone linkedin" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NudDfW0-eU28B6ZxWDFXChGmMbyPGZg9sA&s">
    </a>  
  </p>
